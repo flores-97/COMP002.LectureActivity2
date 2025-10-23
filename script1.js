@@ -10,5 +10,6 @@ console.log(pi);
 
 let myNumber;
 myNumber = "45";
+console.log(myNumber);
 
 console.log(Math.min(pi, myNumber)); //the result returned the number of pi because it was lower than the number that I choose, 45. 
